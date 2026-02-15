@@ -1,0 +1,16 @@
+# Environnements virtuels 
+venv/
+env/
+ENV/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Fichiers systèmes Mac 
+.DS_Store
+
+# Fichiers de configuration IDE 
+.idea/
+.vscode/
+EOF
